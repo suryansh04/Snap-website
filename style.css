@@ -66,6 +66,7 @@ html {
 body {
   font-family: "Epilogue", sans-serif;
   overflow: hidden;
+  background-color: red;
 }
 
 /*Header*/
